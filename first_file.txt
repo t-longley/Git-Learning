@@ -1,0 +1,3 @@
+hello this is my first text file using git
+this will be in nano too
+
